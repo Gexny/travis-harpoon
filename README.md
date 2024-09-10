@@ -1,7 +1,10 @@
 [![Build Status](https://app.travis-ci.com/Montana/travis-harpoon.svg?token=U865GtC2ptqX3Ezf3Fzb&branch=master)](https://app.travis-ci.com/Montana/travis-harpoon)
 
 # Travis CI with Harpoon 
-This demonstrates how Travis CI works with Harpoon. (https://www.harpoon.io/).
+
+<img width="602" alt="Screenshot 2024-09-09 at 2 51 19 PM" src="https://github.com/user-attachments/assets/64cd689d-9689-4423-bf1d-5b98fabe387a">
+
+<br>This demonstrates how Travis CI works with Harpoon. (https://www.harpoon.io/).</br>
 
 ## Usage 
 
@@ -46,7 +49,7 @@ Once you see a successful push, go to Harpoon, and you can search for the image 
 
 Just go to the dropdown on the left-hand side, select "Harpoon," and then search. You should see your project, then drag and drop it to the stages screen, it should look like this: 
 
-<img width="977" alt="Screenshot 2024-09-09 at 2 10 10 PM" src="https://github.com/user-attachments/assets/21611865-5264-4494-8e0d-509d7e850011">
+<img width="1168" alt="Screenshot 2024-09-09 at 2 55 50 PM" src="https://github.com/user-attachments/assets/b021bb5d-c459-4a69-be84-b802180b5b5f">
 
 <br>That's it. You've used Travis CI with Harpoon.</br>
 
