@@ -1,4 +1,4 @@
-FROM node:16
+FROM node:16 # Any need to update the version? 
 WORKDIR ./
 COPY package*.json ./
 RUN npm install --production
